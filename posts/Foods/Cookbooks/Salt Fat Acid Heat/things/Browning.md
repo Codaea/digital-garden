@@ -1,0 +1,3 @@
+- doesn't occur below 230 F
+- use fat in pan to increase surface area
+- introduces new flavors
