@@ -126,20 +126,22 @@ just more oil stuff
 
 - *which* fats we use primarily affect flavor, but *how* we use them will determine texture, which is just as important in good cooking
 - depending on how we use fats, we can achieve any one of five distinct textures in our food
-	- Crisp
-	- Creamy
-	- Flaky
-	- Tender
-	- Light
 
-### Crisp
-A even more full explanation here [[Crisp]]
-- for food to become crisp, the water trapped in its cells must evaporate. Water evaporates as it boils, so surface temperature of the ingredient must climb beyond 212F boiling temp.
-- to achieve this effect on the entire surface of the food, it needs to be in direct even contact with a heat source, such as a pan at temperatures well beyond 212F.
-- no food is perfectly smooth, and nither are pans. in order to get even contact between the two we need a medium fat
-- cooking fats can be heated to 350F and beyond before begining to smoke, so they are ideal mediums
-- cooking methods where fat is heated to achieve crispness include searing, sautéing, pan-,shallow-, and deep-frying.
-- using enough fat to create even surface contact will prevent food from sticking to the pan
-#NotDone 
+**Textures**
+- [[Crisp]]
+- [[Creamy]] from [[Emulsions]]
+- [[Flaky and Tender]]
+- [[Light]]
 
-#
+
+#PageNotDone 
+
+## Using Fat
+
+
+
+### Layering Fat
+
+### Balancing Fat
+
+### Improvising with Salt and Fat

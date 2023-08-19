@@ -1,7 +1,7 @@
-**Quick Links**
+**Quick Links For This Page**
 - [[Salt#Salting Calendar]]
 
-you don’t always need a little salt, you might need a lot. “He marched me back to the pot and added not one but three enormous palmfuls of kosher salt
+> you don’t always need a little salt, you might need a lot. “He marched me back to the pot and added not one but three enormous palmfuls of kosher salt
 
 - Salt is really important
 - Don’t use more salt, use salt better. 
@@ -10,6 +10,7 @@ you don’t always need a little salt, you might need a lot. “He marched me ba
 - Affects perception to bitterness to make it less bitter
 - Salt masks bitter Tastes far better than sugar
 - **Stir Taste Adjust**
+- You can always use a little salt on a bite of food if you think it needs more
 
 
 ## Salt types
@@ -59,7 +60,7 @@ Anything that heightens flavor is seasoning, but is generally salt.
 "Some ingredients and cooking methods required giving salt enough time to penetrate food and distribute itself within it. Sometimes, key is creating a salty enough environment to allow food to absorb the right amount while it cooks"
 
 - Osmosis - movement from the saltier side to the less salty side across cell walls (faster than diffusion) (really just movement in general is called osmosis)
-- Diffusion - movement to from saltier side to less salty side until it’s evenly distributed throughout ( moment where its balancing) [[Diffusion]] ^f23e0b
+- [[Diffusion]] - movement to from saltier side to less salty side until it’s evenly distributed throughout ( moment where its balancing) 
 
 Given the chance salt will always try to become evenly distributed. 
 
