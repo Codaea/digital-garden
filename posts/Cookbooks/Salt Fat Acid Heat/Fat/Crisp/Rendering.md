@@ -2,4 +2,5 @@ Inter-muscular and subcutaneous fats - the lumpy bits between the muscles and th
 
 Fat in meat will prevent it from crisping. even when the aim is not to render fat to use as a cooking medium, this technique is crucial for transforming texture. Crisp bacon is the result of properly rendered fat. fry to hot, it will burn outside and remain flabby. **The Key is to cook slowly enough to allow the fat to render at the same rate the bacon browns**.
 
-#NotDone 
+
+#PageNotDone 

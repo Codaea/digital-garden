@@ -8,4 +8,4 @@ I used [[Cinnamon Crunch Banana Bread]] on my first try and made some [[Banana F
 
 mix that all together and dip the Banana Bread in it and then put in pan on medium low heat, i wanna say around 212F ish
 #### **Notes:**
-DO NOT LEAVE THE BREAD IN THE BATTER. it seemed like the bread absorbed to much of it and then got really heavy and broke apart. so quick dipping
+DO NOT LEAVE THE BREAD IN THE BATTER. it seemed like the bread absorbed to much of it and then got really heavy and broke apart. so quick dipping and straight to the pan. 
