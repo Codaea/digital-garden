@@ -189,7 +189,3 @@ when you realize a dish needs more salt, take a moment to think about where that
 - **Select:** foods cooked in liquid can often be salvaged if the salty cooking liquid is discarded. 
 - **Transform:** make something that was a main ingredient and just make it a background ingredient in a diffrent dish. 
 - **Give up and admit defeat:** You can try again next time, Just Stir, Taste Adjust.
-
-## Improvising With Salt
-
-#PageNotDone

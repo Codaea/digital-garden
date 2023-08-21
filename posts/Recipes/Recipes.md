@@ -1,12 +1,5 @@
 
-## Baking
-
-### Breadz
-#### Quick Breads
-[[Babnanana bread]]
-[[Cinnamon Crunch Banana Bread]]
-
-[[Quick Rise Cinnamon Bread]]
+[[Baking Recipes]]
 
 
 ## Breakfast

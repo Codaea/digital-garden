@@ -48,3 +48,7 @@ Works Well For [[Banana Bread French Toast]]
     - Remove to a rack and let cool in the pan for 30 minutes.
     - Use the edges of the paper to lift the cake up and out.
     - Place on a rack (leave the paper on) and let cool before slicing and serving
+
+### Notes
+
+i have been making this without the topping and its still very moist, 

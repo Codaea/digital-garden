@@ -1,3 +1,5 @@
+**Tags:** #cookbook 
+
 
 - [[Salt]]
 - [[Fat]]

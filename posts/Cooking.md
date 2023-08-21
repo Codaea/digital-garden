@@ -1,3 +1,9 @@
+
+**Tags:** #cooking
+
+## Index
+
+
 [[Cookbooks]]
 
 [[Cooking Fundamentals]]
@@ -7,4 +13,5 @@
 
 [[Dinner Ideas]]
 
-[[Recipes]]
+- [[Recipes]]
+- [[Making Your Own Recipes]]

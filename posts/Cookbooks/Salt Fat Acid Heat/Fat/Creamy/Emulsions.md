@@ -1,4 +1,6 @@
-#creamy
+
+**Tags:** #creamy
+
 **Quick Links:**
 - [[Emulsifier]]
 - [[#Fixing Emulsions]]
@@ -53,4 +55,4 @@ Example: [[Fixing Mayo]]
 
 - if a Emulsion starts to go south, stop adding fat.
 - if the emulsion isn't thickening, stop adding oil. 
-- use splashes of cold and hot water to help regulate tempature
+- use splashes of cold and hot water to help regulate temperature
