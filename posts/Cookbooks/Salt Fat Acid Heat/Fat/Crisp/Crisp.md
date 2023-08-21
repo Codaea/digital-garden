@@ -19,7 +19,3 @@
 
 - do not cover or pile up hot crisp foods. they get soggy :(
 - allow hot crisp foods to cool off in a single layer. 
-
-
-
-#PageNotDone 

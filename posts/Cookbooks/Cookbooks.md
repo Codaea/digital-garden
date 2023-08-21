@@ -1,5 +1,9 @@
 ## Resources
-[[Salt Fat Acid Heat]]
+- [[Salt Fat Acid Heat]]
+- [[The Food Lab]]
+
+
+[[Funny Quotes]]
 
 ## Booklist
 - [ ] [Snoop Dawg Cookbook???](https://www.amazon.com/Crook-Cook-Platinum-Recipes-Kitchen/dp/1452179611/ref=sr_1_3?crid=1LUPCBJYKW5QC&keywords=Cooking&qid=1692330814&s=books&sprefix=cooking%2Cstripbooks%2C108&sr=1-3)

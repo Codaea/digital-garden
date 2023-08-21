@@ -50,11 +50,27 @@ to get flakes, fat must be cold so it remains in distinct pieces. when the cold 
 the flakiest pastries are made with [[Laminated Doughs]]. to get that texture, they wrap dough around butter and roll it out and fold several times. each roll and fold is called a **Turn**. when turned 6 times it will have 730 layers. when it gets hot in oven, butter turns into steam creating 730 layers. make sure everything remains cold when working on **laminated doughs**. Yeasted doughs with developed gluten make for great croissants and Danishes. (Be careful, its a very thin line where its good.)
 
 
-## Achieving Tenderness: Shortbread
-#PageNotDone 
+## Achieving Tenderness
 
-## Achieving Flakiness: Pie Dough
+- the texture goal is tender with fine sandy crumbs. (shortbread)
+- we get this texture by adding fat early into flour in the dough process. 
+- use butter or any soft or liquid fat including creme, softened softened cream cheese or oil to coat flour to get tender textures.
+- in classic recipes they use cold whipping cream as the fat and the liquid binder. so less water is needed to develop gluten while also restricting it. 
 
+## Achieving Flakiness
 
-## Achieving Flakiness *and*  Tenderness: Tart Dough
+- important to keep dough cold
+- butter is 15%-20% water
+- if the butter combines with the dough it will gluten will develop and it will come out chewy. 
+- Vegetable shortening is more forgiving but it doesn't taste as good. 
+- its a tradeoff between flaky and strength slightly
+- u can make pastry dough and saran wrap it and it will keep for up to 2 months in the freezer
+- it has to go from cold straight into a hot oven, so the butter evaporates and doesnt have time to mingle and ruin the dough. 
 
+## Achieving Flakiness *and*  Tenderness
+
+- to get tender and flaky you start with flakiness by using cold ingredients and mixing until it would be good for flaky
+- then to add Tenderness you can use liquid fats to coat loose flour with fat to prevent gluten development. 
+
+## Tender Cakes
+- oil based cakes prevent gluten development and coats flour so less water can be absorbed leading to chewy and moist because more unabsorbed water in the dough. 

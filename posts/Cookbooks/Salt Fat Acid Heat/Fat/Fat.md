@@ -1,7 +1,8 @@
 
-More Stuff Related to Fats are 
-[[Rendering]]
-[[Emulsions]]
+More Stuff Related to Fats are
+[]()
+- [[Rendering]]
+- [[Emulsions]]
 ## Roles Of Fat
 
 if you don't know what role fat is playing ask yourself these questions.
@@ -133,15 +134,12 @@ just more oil stuff
 - [[Flaky and Tender]]
 - [[Light]]
 
-
-#PageNotDone 
-
-## Using Fat
-
-
-
 ### Layering Fat
+
+- Most dishes benefit from more than 1 type of fat. 
+- think about if the fat your adding will make the other ingredients in the dish taste better
+- Sometimes fat will be used to achieve multiple textures within 1 dish
 
 ### Balancing Fat
 
-### Improvising with Salt and Fat
+the only way to fix a off balanced dish is the same way as salt, refer to [[Salt#Balancing Salt (For when u Fuck up)]]
